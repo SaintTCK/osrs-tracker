@@ -10,7 +10,7 @@ DATA_DIR = "data"
 LATEST_FILE = os.path.join(DATA_DIR, "latest.json")
 PREVIOUS_FILE = os.path.join(DATA_DIR, "previous.json")
 CHANGES_FILE = os.path.join(DATA_DIR, "changes.txt")
-
+LATEST_TEXT_FILE = os.path.join(DATA_DIR, "latest.txt")
 
 def fetch_wom_profile():
     request = urllib.request.Request(
@@ -112,6 +112,52 @@ def compare_snapshots(old, new):
 
     return changes
 
+def save_latest_text(path, data):
+    skills = data.get("skills", {})
+    bosses = data.get("bosses", {})
+    activities = data.get("activities", {})
+
+    lines = [
+        "SaintTCK OSRS Tracker",
+        "======================",
+        "",
+        f"Username: {data.get('username')}",
+        f"Display Name: {data.get('displayName')}",
+        f"Account Type: {data.get('type')}",
+        f"Updated At: {data.get('updatedAt')}",
+        "",
+        "Skills",
+        "------",
+    ]
+
+    for skill, info in sorted(skills.items()):
+        lines.append(
+            f"{skill}: level {info.get('level')}, "
+            f"xp {info.get('experience')}, "
+            f"rank {info.get('rank')}"
+        )
+
+    lines.extend(["", "Bosses", "------"])
+
+    for boss, info in sorted(bosses.items()):
+        kills = info.get("kills")
+        if kills and kills > 0:
+            lines.append(
+                f"{boss}: {kills} KC, rank {info.get('rank')}"
+            )
+
+    lines.extend(["", "Activities", "----------"])
+
+    for activity, info in sorted(activities.items()):
+        score = info.get("score")
+        if score and score > 0:
+            lines.append(
+                f"{activity}: {score}, rank {info.get('rank')}"
+            )
+
+    with open(path, "w", encoding="utf-8") as file:
+        file.write("\n".join(lines))
+        file.write("\n")
 
 def main():
     os.makedirs(DATA_DIR, exist_ok=True)
