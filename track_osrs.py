@@ -173,8 +173,6 @@ def main():
     save_json(LATEST_FILE, latest)
     save_latest_text(LATEST_TEXT_FILE, latest)
 
-changes = compare_snapshots(previous, latest)
-
     changes = compare_snapshots(previous, latest)
 
     with open(CHANGES_FILE, "w", encoding="utf-8") as file:
