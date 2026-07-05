@@ -171,6 +171,9 @@ def main():
         save_json(PREVIOUS_FILE, previous)
 
     save_json(LATEST_FILE, latest)
+    save_latest_text(LATEST_TEXT_FILE, latest)
+
+changes = compare_snapshots(previous, latest)
 
     changes = compare_snapshots(previous, latest)
 
