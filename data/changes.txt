@@ -1,7 +1,4 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-07-07T10:18:51.580045+00:00
+Checked at: 2026-07-07T13:11:23.381671+00:00
 
-Changes detected:
-- overall: level 2190 → 2192
-- fletching: level 91 → 92
-- herblore: level 83 → 84
+No meaningful changes detected.
