@@ -1,4 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-07-08T19:07:07.995831+00:00
+Checked at: 2026-07-08T20:56:29.905202+00:00
 
-No meaningful changes detected.
+Changes detected:
+- overall: level 2192 → 2193
+- crafting: level 93 → 94
