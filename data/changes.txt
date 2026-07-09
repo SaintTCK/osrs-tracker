@@ -1,4 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-07-09T16:22:07.789593+00:00
+Checked at: 2026-07-09T18:45:47.412835+00:00
 
-No meaningful changes detected.
+Changes detected:
+- overall: level 2193 → 2194
+- mining: level 95 → 96
