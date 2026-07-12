@@ -1,4 +1,5 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-07-12T07:59:32.904311+00:00
+Checked at: 2026-07-12T09:52:53.731354+00:00
 
-No meaningful changes detected.
+Changes detected:
+- maggot_king: +24 KC (28 → 52)
