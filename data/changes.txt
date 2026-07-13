@@ -1,4 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-07-13T05:26:50.599653+00:00
+Checked at: 2026-07-13T08:48:36.106271+00:00
 
-No meaningful changes detected.
+Changes detected:
+- hespori: +1 KC (63 → 64)
+- zalcano: +10 KC (241 → 251)
