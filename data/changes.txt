@@ -1,4 +1,7 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-07-14T07:03:29.748526+00:00
+Checked at: 2026-07-14T09:46:41.102431+00:00
 
-No meaningful changes detected.
+Changes detected:
+- overall: level 2195 → 2196
+- magic: level 96 → 97
+- maggot_king: +26 KC (61 → 87)
