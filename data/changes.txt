@@ -1,4 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-07-19T21:41:15.322467+00:00
+Checked at: 2026-07-19T22:41:04.652923+00:00
 
-No meaningful changes detected.
+Changes detected:
+- maggot_king: +7 KC (165 → 172)
+- zalcano: +19 KC (261 → 280)
