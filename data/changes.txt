@@ -1,5 +1,4 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-07-19T20:02:18.066913+00:00
+Checked at: 2026-07-19T21:41:15.322467+00:00
 
-Changes detected:
-- zalcano: +10 KC (251 → 261)
+No meaningful changes detected.
