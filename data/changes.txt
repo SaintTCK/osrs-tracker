@@ -1,7 +1,4 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-07-20T22:46:14.151009+00:00
+Checked at: 2026-07-20T23:46:52.779587+00:00
 
-Changes detected:
-- overall: level 2198 → 2199
-- sailing: level 71 → 72
-- maggot_king: +9 KC (172 → 181)
+No meaningful changes detected.
