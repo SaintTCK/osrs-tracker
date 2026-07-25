@@ -17,15 +17,15 @@
       "score": 22
     },
     "clue_scrolls_easy": {
-      "rank": 171459,
+      "rank": 171463,
       "score": 13
     },
     "clue_scrolls_elite": {
-      "rank": 154578,
+      "rank": 154579,
       "score": 1
     },
     "clue_scrolls_hard": {
-      "rank": 142940,
+      "rank": 142941,
       "score": 31
     },
     "clue_scrolls_master": {
@@ -33,7 +33,7 @@
       "score": 0
     },
     "clue_scrolls_medium": {
-      "rank": 174877,
+      "rank": 174879,
       "score": 16
     },
     "collections_logged": {
@@ -41,11 +41,11 @@
       "score": 408
     },
     "colosseum_glory": {
-      "rank": 49656,
+      "rank": 49657,
       "score": 591
     },
     "guardians_of_the_rift": {
-      "rank": 68806,
+      "rank": 68807,
       "score": 206
     },
     "last_man_standing": {
@@ -132,7 +132,7 @@
     },
     "crazy_archaeologist": {
       "kills": 19,
-      "rank": 137745
+      "rank": 137746
     },
     "dagannoth_prime": {
       "kills": 155,
@@ -152,7 +152,7 @@
     },
     "doom_of_mokhaiotl": {
       "kills": 60,
-      "rank": 13866
+      "rank": 13867
     },
     "duke_sucellus": {
       "kills": 434,
@@ -160,7 +160,7 @@
     },
     "general_graardor": {
       "kills": 79,
-      "rank": 55817
+      "rank": 55818
     },
     "giant_mole": {
       "kills": 1,
@@ -196,11 +196,11 @@
     },
     "lunar_chests": {
       "kills": 374,
-      "rank": 14326
+      "rank": 14327
     },
     "maggot_king": {
       "kills": 181,
-      "rank": 6842
+      "rank": 6843
     },
     "mimic": {
       "kills": 0,
@@ -240,7 +240,7 @@
     },
     "shellbane_gryphon": {
       "kills": 256,
-      "rank": 12000
+      "rank": 12001
     },
     "skotizo": {
       "kills": 11,
@@ -260,7 +260,7 @@
     },
     "the_corrupted_gauntlet": {
       "kills": 386,
-      "rank": 41568
+      "rank": 41569
     },
     "the_gauntlet": {
       "kills": 36,
@@ -280,7 +280,7 @@
     },
     "the_whisperer": {
       "kills": 9,
-      "rank": 18757
+      "rank": 18759
     },
     "theatre_of_blood": {
       "kills": 0,
@@ -296,7 +296,7 @@
     },
     "tombs_of_amascut": {
       "kills": 25,
-      "rank": 44318
+      "rank": 44319
     },
     "tombs_of_amascut_expert": {
       "kills": 36,
@@ -324,11 +324,11 @@
     },
     "vorkath": {
       "kills": 24,
-      "rank": 89171
+      "rank": 89173
     },
     "wintertodt": {
       "kills": 524,
-      "rank": 124748
+      "rank": 124749
     },
     "yama": {
       "kills": 64,
@@ -348,7 +348,7 @@
     "agility": {
       "experience": 3819049,
       "level": 86,
-      "rank": 62437
+      "rank": 62438
     },
     "attack": {
       "experience": 13722840,
@@ -403,7 +403,7 @@
     "hitpoints": {
       "experience": 29689910,
       "level": 99,
-      "rank": 45522
+      "rank": 45523
     },
     "hunter": {
       "experience": 3405526,
@@ -421,9 +421,9 @@
       "rank": 38491
     },
     "overall": {
-      "experience": 244074265,
+      "experience": 244088169,
       "level": 2206,
-      "rank": 45729
+      "rank": 45730
     },
     "prayer": {
       "experience": 3047744,
@@ -441,9 +441,9 @@
       "rank": 115793
     },
     "sailing": {
-      "experience": 1945685,
+      "experience": 1959589,
       "level": 79,
-      "rank": 50994
+      "rank": 50958
     },
     "slayer": {
       "experience": 4596240,
@@ -453,12 +453,12 @@
     "smithing": {
       "experience": 3674152,
       "level": 86,
-      "rank": 72014
+      "rank": 72015
     },
     "strength": {
       "experience": 20875153,
       "level": 99,
-      "rank": 41524
+      "rank": 41528
     },
     "thieving": {
       "experience": 16804562,
@@ -472,6 +472,6 @@
     }
   },
   "type": "ironman",
-  "updatedAt": "2026-07-25T15:56:10.138167+00:00",
+  "updatedAt": "2026-07-25T16:50:02.587606+00:00",
   "username": "sainttck"
 }
