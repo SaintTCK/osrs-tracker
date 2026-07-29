@@ -1,4 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-07-29T07:44:59.797318+00:00
+Checked at: 2026-07-29T10:29:59.535994+00:00
 
-No meaningful changes detected.
+Changes detected:
+- abyssal_sire: +33 KC (0 → 33)
+- general_graardor: +7 KC (79 → 86)
