@@ -1,6 +1,4 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-07-29T23:53:11.632399+00:00
+Checked at: 2026-07-30T01:25:03.870786+00:00
 
-Changes detected:
-- abyssal_sire: +40 KC (33 → 73)
-- mad_angel: +32 KC (0 → 32)
+No meaningful changes detected.
