@@ -4,31 +4,31 @@ SaintTCK OSRS Tracker
 Username: sainttck
 Display Name: sainttck
 Account Type: ironman
-Updated At: 2026-08-04T13:50:13.326377+00:00
+Updated At: 2026-08-04T16:06:43.257892+00:00
 
 Skills
 ------
-agility: level 86, xp 3824375, rank 62633
-attack: level 99, xp 13770031, rank 49199
+agility: level 86, xp 3824375, rank 62635
+attack: level 99, xp 13770031, rank 49200
 construction: level 82, xp 2543073, rank 103169
 cooking: level 99, xp 13398383, rank 35403
-crafting: level 94, xp 7978659, rank 59927
-defence: level 99, xp 13400887, rank 47613
-farming: level 94, xp 8015368, rank 89352
+crafting: level 94, xp 7978659, rank 59929
+defence: level 99, xp 13400887, rank 47614
+farming: level 94, xp 8015368, rank 89356
 firemaking: level 99, xp 13091496, rank 89609
-fishing: level 89, xp 5261636, rank 86212
-fletching: level 92, xp 6721145, rank 50790
-herblore: level 84, xp 3063622, rank 99668
+fishing: level 89, xp 5261636, rank 86215
+fletching: level 92, xp 6721145, rank 50792
+herblore: level 84, xp 3063622, rank 99669
 hitpoints: level 99, xp 30023707, rank 45371
-hunter: level 85, xp 3405550, rank 92622
-magic: level 97, xp 11380347, rank 81418
+hunter: level 85, xp 3405550, rank 92623
+magic: level 97, xp 11380347, rank 81420
 mining: level 99, xp 13048991, rank 37439
-overall: level 2216, xp 248782315, rank 43537
+overall: level 2216, xp 248826285, rank 43537
 prayer: level 84, xp 3053998, rank 68364
 ranged: level 99, xp 30698386, rank 39190
-runecrafting: level 76, xp 1414834, rank 116225
-sailing: level 89, xp 4983823, rank 34020
-slayer: level 88, xp 4652614, rank 111512
+runecrafting: level 76, xp 1414834, rank 116226
+sailing: level 89, xp 5027793, rank 33876
+slayer: level 88, xp 4652614, rank 111513
 smithing: level 86, xp 3705782, rank 71373
 strength: level 99, xp 21411458, rank 40842
 thieving: level 99, xp 16804562, rank 13847
@@ -38,10 +38,10 @@ Bosses
 ------
 abyssal_sire: 73 KC, rank 60903
 amoxliatl: 103 KC, rank 14920
-barrows_chests: 65 KC, rank 181581
+barrows_chests: 65 KC, rank 181583
 brutus: 906 KC, rank 8905
 chambers_of_xeric: 18 KC, rank 57308
-crazy_archaeologist: 19 KC, rank 138476
+crazy_archaeologist: 19 KC, rank 138478
 dagannoth_prime: 155 KC, rank 39775
 dagannoth_rex: 305 KC, rank 40205
 dagannoth_supreme: 242 KC, rank 24255
@@ -53,39 +53,39 @@ grotesque_guardians: 111 KC, rank 26004
 hespori: 64 KC, rank 68003
 king_black_dragon: 74 KC, rank 34806
 kraken: 349 KC, rank 82801
-kril_tsutsaroth: 8 KC, rank 73999
+kril_tsutsaroth: 8 KC, rank 74000
 lunar_chests: 374 KC, rank 14548
-mad_angel: 32 KC, rank 10528
+mad_angel: 32 KC, rank 10543
 maggot_king: 224 KC, rank 6562
-scurrius: 22 KC, rank 69975
+scurrius: 22 KC, rank 69977
 shellbane_gryphon: 256 KC, rank 12392
-skotizo: 11 KC, rank 91411
-tempoross: 347 KC, rank 19150
-the_corrupted_gauntlet: 386 KC, rank 42074
+skotizo: 11 KC, rank 91413
+tempoross: 347 KC, rank 19152
+the_corrupted_gauntlet: 386 KC, rank 42075
 the_gauntlet: 36 KC, rank 28979
 the_hueycoatl: 76 KC, rank 37019
-the_leviathan: 5 KC, rank 23999
+the_leviathan: 5 KC, rank 24000
 the_royal_titans: 383 KC, rank 21367
 the_whisperer: 9 KC, rank 19013
 tombs_of_amascut: 25 KC, rank 44557
-tombs_of_amascut_expert: 36 KC, rank 33779
+tombs_of_amascut_expert: 36 KC, rank 33780
 tztok_jad: 5 KC, rank 42501
 vardorvis: 57 KC, rank 29947
-vorkath: 24 KC, rank 89566
+vorkath: 24 KC, rank 89569
 wintertodt: 524 KC, rank 125048
-yama: 64 KC, rank 30043
+yama: 64 KC, rank 30044
 zalcano: 280 KC, rank 13502
 zulrah: 1507 KC, rank 16803
 
 Activities
 ----------
 clue_scrolls_all: 83, rank 168815
-clue_scrolls_beginner: 22, rank 100508
-clue_scrolls_easy: 13, rank 172310
+clue_scrolls_beginner: 22, rank 100509
+clue_scrolls_easy: 13, rank 172313
 clue_scrolls_elite: 1, rank 154961
-clue_scrolls_hard: 31, rank 143418
-clue_scrolls_medium: 16, rank 175514
+clue_scrolls_hard: 31, rank 143419
+clue_scrolls_medium: 16, rank 175515
 collections_logged: 419, rank -1
-colosseum_glory: 591, rank 50109
-guardians_of_the_rift: 206, rank 69221
+colosseum_glory: 591, rank 50110
+guardians_of_the_rift: 206, rank 69223
 pvp_arena: 2500, rank -1
