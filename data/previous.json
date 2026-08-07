@@ -9,7 +9,7 @@
       "score": 0
     },
     "clue_scrolls_all": {
-      "rank": 169016,
+      "rank": 169018,
       "score": 83
     },
     "clue_scrolls_beginner": {
@@ -17,7 +17,7 @@
       "score": 22
     },
     "clue_scrolls_easy": {
-      "rank": 172541,
+      "rank": 172543,
       "score": 13
     },
     "clue_scrolls_elite": {
@@ -25,7 +25,7 @@
       "score": 1
     },
     "clue_scrolls_hard": {
-      "rank": 143541,
+      "rank": 143545,
       "score": 31
     },
     "clue_scrolls_master": {
@@ -33,7 +33,7 @@
       "score": 0
     },
     "clue_scrolls_medium": {
-      "rank": 175725,
+      "rank": 175728,
       "score": 16
     },
     "collections_logged": {
@@ -41,11 +41,11 @@
       "score": 419
     },
     "colosseum_glory": {
-      "rank": 50250,
+      "rank": 50253,
       "score": 591
     },
     "guardians_of_the_rift": {
-      "rank": 69337,
+      "rank": 69338,
       "score": 206
     },
     "last_man_standing": {
@@ -64,7 +64,7 @@
   "bosses": {
     "abyssal_sire": {
       "kills": 73,
-      "rank": 61068
+      "rank": 61070
     },
     "alchemical_hydra": {
       "kills": 0,
@@ -84,11 +84,11 @@
     },
     "barrows_chests": {
       "kills": 65,
-      "rank": 181816
+      "rank": 181821
     },
     "brutus": {
       "kills": 906,
-      "rank": 8957
+      "rank": 8958
     },
     "bryophyta": {
       "kills": 0,
@@ -108,7 +108,7 @@
     },
     "chambers_of_xeric": {
       "kills": 18,
-      "rank": 57366
+      "rank": 57367
     },
     "chambers_of_xeric_challenge_mode": {
       "kills": 0,
@@ -132,15 +132,15 @@
     },
     "crazy_archaeologist": {
       "kills": 19,
-      "rank": 138672
+      "rank": 138674
     },
     "dagannoth_prime": {
       "kills": 155,
-      "rank": 39812
+      "rank": 39813
     },
     "dagannoth_rex": {
       "kills": 305,
-      "rank": 40262
+      "rank": 40265
     },
     "dagannoth_supreme": {
       "kills": 242,
@@ -152,7 +152,7 @@
     },
     "doom_of_mokhaiotl": {
       "kills": 60,
-      "rank": 14227
+      "rank": 14228
     },
     "duke_sucellus": {
       "kills": 434,
@@ -160,7 +160,7 @@
     },
     "general_graardor": {
       "kills": 86,
-      "rank": 55654
+      "rank": 55655
     },
     "giant_mole": {
       "kills": 1,
@@ -168,11 +168,11 @@
     },
     "grotesque_guardians": {
       "kills": 111,
-      "rank": 26168
+      "rank": 26170
     },
     "hespori": {
       "kills": 64,
-      "rank": 68118
+      "rank": 68120
     },
     "kalphite_queen": {
       "kills": 0,
@@ -184,7 +184,7 @@
     },
     "kraken": {
       "kills": 349,
-      "rank": 82862
+      "rank": 82864
     },
     "kreearra": {
       "kills": 0,
@@ -196,15 +196,15 @@
     },
     "lunar_chests": {
       "kills": 374,
-      "rank": 14604
+      "rank": 14605
     },
     "mad_angel": {
       "kills": 32,
-      "rank": 11746
+      "rank": 11754
     },
     "maggot_king": {
       "kills": 224,
-      "rank": 6708
+      "rank": 6710
     },
     "mimic": {
       "kills": 0,
@@ -240,7 +240,7 @@
     },
     "scurrius": {
       "kills": 22,
-      "rank": 70115
+      "rank": 70117
     },
     "shellbane_gryphon": {
       "kills": 256,
@@ -248,7 +248,7 @@
     },
     "skotizo": {
       "kills": 11,
-      "rank": 91515
+      "rank": 91517
     },
     "sol_heredit": {
       "kills": 0,
@@ -260,7 +260,7 @@
     },
     "tempoross": {
       "kills": 347,
-      "rank": 19178
+      "rank": 19181
     },
     "the_corrupted_gauntlet": {
       "kills": 386,
@@ -272,11 +272,11 @@
     },
     "the_hueycoatl": {
       "kills": 76,
-      "rank": 37104
+      "rank": 37105
     },
     "the_leviathan": {
       "kills": 5,
-      "rank": 24085
+      "rank": 24086
     },
     "the_royal_titans": {
       "kills": 383,
@@ -284,7 +284,7 @@
     },
     "the_whisperer": {
       "kills": 9,
-      "rank": 19084
+      "rank": 19085
     },
     "theatre_of_blood": {
       "kills": 0,
@@ -304,7 +304,7 @@
     },
     "tombs_of_amascut_expert": {
       "kills": 36,
-      "rank": 33853
+      "rank": 33855
     },
     "tzkal_zuk": {
       "kills": 0,
@@ -316,7 +316,7 @@
     },
     "vardorvis": {
       "kills": 57,
-      "rank": 30029
+      "rank": 30030
     },
     "venenatis": {
       "kills": 0,
@@ -328,11 +328,11 @@
     },
     "vorkath": {
       "kills": 24,
-      "rank": 89674
+      "rank": 89677
     },
     "wintertodt": {
       "kills": 524,
-      "rank": 125131
+      "rank": 125133
     },
     "yama": {
       "kills": 64,
@@ -352,47 +352,47 @@
     "agility": {
       "experience": 3824375,
       "level": 86,
-      "rank": 62725
+      "rank": 62728
     },
     "attack": {
       "experience": 13770031,
       "level": 99,
-      "rank": 49333
+      "rank": 49338
     },
     "construction": {
       "experience": 2543073,
       "level": 82,
-      "rank": 103374
+      "rank": 103376
     },
     "cooking": {
       "experience": 13398383,
       "level": 99,
-      "rank": 35493
+      "rank": 35496
     },
     "crafting": {
       "experience": 7978659,
       "level": 94,
-      "rank": 60105
+      "rank": 60107
     },
     "defence": {
       "experience": 13400887,
       "level": 99,
-      "rank": 47761
+      "rank": 47763
     },
     "farming": {
       "experience": 8015368,
       "level": 94,
-      "rank": 89471
+      "rank": 89472
     },
     "firemaking": {
       "experience": 13091496,
       "level": 99,
-      "rank": 89693
+      "rank": 89695
     },
     "fishing": {
       "experience": 5261636,
       "level": 89,
-      "rank": 86307
+      "rank": 86308
     },
     "fletching": {
       "experience": 6721145,
@@ -402,67 +402,67 @@
     "herblore": {
       "experience": 3063622,
       "level": 84,
-      "rank": 99826
+      "rank": 99830
     },
     "hitpoints": {
       "experience": 30023707,
       "level": 99,
-      "rank": 45502
+      "rank": 45503
     },
     "hunter": {
       "experience": 3405550,
       "level": 85,
-      "rank": 92782
+      "rank": 92783
     },
     "magic": {
-      "experience": 11380542,
+      "experience": 11380607,
       "level": 97,
-      "rank": 81581
+      "rank": 81582
     },
     "mining": {
       "experience": 13048991,
       "level": 99,
-      "rank": 37520
+      "rank": 37521
     },
     "overall": {
-      "experience": 249217925,
+      "experience": 249250828,
       "level": 2217,
-      "rank": 43433
+      "rank": 43435
     },
     "prayer": {
       "experience": 3053998,
       "level": 84,
-      "rank": 68519
+      "rank": 68520
     },
     "ranged": {
       "experience": 30698386,
       "level": 99,
-      "rank": 39292
+      "rank": 39294
     },
     "runecrafting": {
       "experience": 1414834,
       "level": 76,
-      "rank": 116368
+      "rank": 116369
     },
     "sailing": {
-      "experience": 5419238,
+      "experience": 5452076,
       "level": 90,
-      "rank": 32223
+      "rank": 32034
     },
     "slayer": {
       "experience": 4652614,
       "level": 88,
-      "rank": 111711
+      "rank": 111715
     },
     "smithing": {
       "experience": 3705782,
       "level": 86,
-      "rank": 71493
+      "rank": 71497
     },
     "strength": {
       "experience": 21411458,
       "level": 99,
-      "rank": 40986
+      "rank": 40988
     },
     "thieving": {
       "experience": 16804562,
@@ -476,6 +476,6 @@
     }
   },
   "type": "ironman",
-  "updatedAt": "2026-08-07T11:37:55.260598+00:00",
+  "updatedAt": "2026-08-07T12:39:41.333631+00:00",
   "username": "sainttck"
 }
