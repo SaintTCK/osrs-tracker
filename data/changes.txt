@@ -1,6 +1,4 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-08-10T09:06:54.187480+00:00
+Checked at: 2026-08-10T10:57:39.132922+00:00
 
-Changes detected:
-- overall: level 2218 → 2219
-- sailing: level 91 → 92
+No meaningful changes detected.
