@@ -1,4 +1,7 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-08-12T14:13:30.488683+00:00
+Checked at: 2026-08-12T15:50:29.090032+00:00
 
-No meaningful changes detected.
+Changes detected:
+- overall: level 2219 → 2220
+- sailing: level 92 → 93
+- mad_angel: +1 KC (32 → 33)
