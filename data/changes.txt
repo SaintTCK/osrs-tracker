@@ -1,5 +1,4 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-08-17T20:14:51.743061+00:00
+Checked at: 2026-08-17T21:16:32.014084+00:00
 
-Changes detected:
-- hespori: +1 KC (64 → 65)
+No meaningful changes detected.
