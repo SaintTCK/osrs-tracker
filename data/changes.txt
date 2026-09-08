@@ -1,4 +1,5 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-09-08T07:32:48.555673+00:00
+Checked at: 2026-09-08T12:23:08.865640+00:00
 
-No meaningful changes detected.
+Changes detected:
+- wintertodt: +15 KC (524 → 539)
