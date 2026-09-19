@@ -1,6 +1,4 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-09-19T13:37:41.228915+00:00
+Checked at: 2026-09-19T16:53:49.672586+00:00
 
-Changes detected:
-- overall: level 2231 → 2232
-- prayer: level 85 → 86
+No meaningful changes detected.
