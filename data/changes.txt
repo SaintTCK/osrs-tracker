@@ -1,4 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-10-05T07:55:07.221000+00:00
+Checked at: 2026-10-05T16:36:02.852135+00:00
 
-No meaningful changes detected.
+Changes detected:
+- overall: level 2235 → 2236
+- fishing: level 95 → 96
