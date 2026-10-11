@@ -1,4 +1,7 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-10-11T03:59:36.628498+00:00
+Checked at: 2026-10-11T10:39:48.347169+00:00
 
-No meaningful changes detected.
+Changes detected:
+- overall: level 2236 → 2237
+- magic: level 97 → 98
+- yama: +18 KC (100 → 118)
