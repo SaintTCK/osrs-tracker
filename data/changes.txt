@@ -1,5 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-10-14T14:10:39.432086+00:00
+Checked at: 2026-10-14T19:03:03.045055+00:00
 
 Changes detected:
-- yama: +9 KC (173 → 182)
+- overall: level 2237 → 2238
+- fishing: level 96 → 97
