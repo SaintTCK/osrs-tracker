@@ -1,4 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-10-18T16:13:08.443554+00:00
+Checked at: 2026-10-18T19:04:26.167308+00:00
 
-No meaningful changes detected.
+Changes detected:
+- chambers_of_xeric: +4 KC (18 → 22)
+- hespori: +1 KC (65 → 66)
