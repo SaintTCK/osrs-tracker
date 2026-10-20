@@ -1,5 +1,5 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-10-20T15:27:47.401228+00:00
+Checked at: 2026-10-20T19:44:04.955401+00:00
 
 Changes detected:
-- the_fractured_archive: +1 KC (-1 → 0)
+- chambers_of_xeric: +2 KC (22 → 24)
