@@ -1,5 +1,4 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-10-22T00:18:44.836633+00:00
+Checked at: 2026-10-22T05:35:44.632914+00:00
 
-Changes detected:
-- yama: +13 KC (280 → 293)
+No meaningful changes detected.
