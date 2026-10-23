@@ -4,88 +4,88 @@ SaintTCK OSRS Tracker
 Username: sainttck
 Display Name: sainttck
 Account Type: ironman
-Updated At: 2026-10-23T17:35:43.330115+00:00
+Updated At: 2026-10-23T20:47:43.598247+00:00
 
 Skills
 ------
-agility: level 86, xp 3831646, rank 65567
-attack: level 99, xp 13807616, rank 51753
-construction: level 82, xp 2579689, rank 107017
-cooking: level 99, xp 13713366, rank 34281
-crafting: level 94, xp 8054853, rank 61867
-defence: level 99, xp 13438473, rank 50261
-farming: level 94, xp 8329941, rank 91129
+agility: level 86, xp 3831646, rank 65572
+attack: level 99, xp 13807616, rank 51759
+construction: level 82, xp 2579689, rank 107025
+cooking: level 99, xp 13713366, rank 34283
+crafting: level 94, xp 8054853, rank 61871
+defence: level 99, xp 13438473, rank 50265
+farming: level 94, xp 8329941, rank 91137
 firemaking: level 99, xp 13457266, rank 48723
-fishing: level 98, xp 12427685, rank 39790
-fletching: level 94, xp 8152919, rank 42709
-herblore: level 85, xp 3265483, rank 101565
-hitpoints: level 99, xp 31653254, rank 45271
-hunter: level 87, xp 4228315, rank 79761
-magic: level 99, xp 13555202, rank 71590
-mining: level 99, xp 13049890, rank 39541
-overall: level 2244, xp 274215361, rank 39531
-prayer: level 86, xp 3647873, rank 58920
-ranged: level 99, xp 32608961, rank 39388
-runecrafting: level 76, xp 1414834, rank 121241
-sailing: level 99, xp 13045818, rank 20258
-slayer: level 88, xp 4652957, rank 116284
-smithing: level 86, xp 3705782, rank 74799
-strength: level 99, xp 21617208, rank 43872
-thieving: level 99, xp 16805962, rank 14226
-woodcutting: level 99, xp 13170368, rank 37737
+fishing: level 98, xp 12624810, rank 39553
+fletching: level 94, xp 8152919, rank 42714
+herblore: level 85, xp 3265483, rank 101571
+hitpoints: level 99, xp 31653254, rank 45278
+hunter: level 88, xp 4452759, rank 76623
+magic: level 99, xp 13555347, rank 71599
+mining: level 99, xp 13049890, rank 39545
+overall: level 2245, xp 274637075, rank 39274
+prayer: level 86, xp 3647873, rank 58922
+ranged: level 99, xp 32608961, rank 39396
+runecrafting: level 76, xp 1414834, rank 121251
+sailing: level 99, xp 13045818, rank 20262
+slayer: level 88, xp 4652957, rank 116298
+smithing: level 86, xp 3705782, rank 74804
+strength: level 99, xp 21617208, rank 43880
+thieving: level 99, xp 16805962, rank 14227
+woodcutting: level 99, xp 13170368, rank 37746
 
 Bosses
 ------
-abyssal_sire: 73 KC, rank 65016
-amoxliatl: 103 KC, rank 16326
-barrows_chests: 65 KC, rank 188553
-brutus: 906 KC, rank 10151
-chambers_of_xeric: 24 KC, rank 56620
-crazy_archaeologist: 19 KC, rank 143980
-dagannoth_prime: 155 KC, rank 41016
-dagannoth_rex: 305 KC, rank 41686
+abyssal_sire: 73 KC, rank 65026
+amoxliatl: 103 KC, rank 16330
+barrows_chests: 65 KC, rank 188566
+brutus: 906 KC, rank 10153
+chambers_of_xeric: 24 KC, rank 56622
+crazy_archaeologist: 19 KC, rank 143990
+dagannoth_prime: 155 KC, rank 41017
+dagannoth_rex: 305 KC, rank 41688
 dagannoth_supreme: 242 KC, rank 24877
-doom_of_mokhaiotl: 60 KC, rank 16373
-duke_sucellus: 434 KC, rank 17317
-general_graardor: 86 KC, rank 57791
+doom_of_mokhaiotl: 60 KC, rank 16375
+duke_sucellus: 434 KC, rank 17323
+general_graardor: 86 KC, rank 57794
 giant_mole: 1 KC, rank -1
-grotesque_guardians: 111 KC, rank 29146
-hespori: 66 KC, rank 68868
-king_black_dragon: 74 KC, rank 35527
-kraken: 349 KC, rank 84821
-kril_tsutsaroth: 8 KC, rank 76537
-lunar_chests: 374 KC, rank 16290
-mad_angel: 33 KC, rank 28442
-maggot_king: 224 KC, rank 10408
-scurrius: 22 KC, rank 74172
-shellbane_gryphon: 256 KC, rank 14315
-skotizo: 11 KC, rank 94617
-tempoross: 352 KC, rank 19352
-the_corrupted_gauntlet: 386 KC, rank 45308
+grotesque_guardians: 111 KC, rank 29155
+hespori: 66 KC, rank 68872
+king_black_dragon: 74 KC, rank 35528
+kraken: 349 KC, rank 84825
+kril_tsutsaroth: 8 KC, rank 76542
+lunar_chests: 374 KC, rank 16291
+mad_angel: 33 KC, rank 28458
+maggot_king: 224 KC, rank 10416
+scurrius: 22 KC, rank 74177
+shellbane_gryphon: 256 KC, rank 14318
+skotizo: 11 KC, rank 94624
+tempoross: 352 KC, rank 19350
+the_corrupted_gauntlet: 386 KC, rank 45315
 the_gauntlet: 36 KC, rank 29558
-the_hueycoatl: 76 KC, rank 40391
-the_leviathan: 5 KC, rank 26114
-the_royal_titans: 383 KC, rank 24564
-the_whisperer: 9 KC, rank 21004
-tombs_of_amascut: 25 KC, rank 46666
-tombs_of_amascut_expert: 36 KC, rank 36077
-tztok_jad: 5 KC, rank 43203
-vardorvis: 57 KC, rank 32382
-vorkath: 24 KC, rank 93072
-wintertodt: 539 KC, rank 118893
-yama: 341 KC, rank 20236
-zalcano: 280 KC, rank 14020
+the_hueycoatl: 76 KC, rank 40395
+the_leviathan: 5 KC, rank 26116
+the_royal_titans: 383 KC, rank 24569
+the_whisperer: 9 KC, rank 21010
+tombs_of_amascut: 25 KC, rank 46674
+tombs_of_amascut_expert: 36 KC, rank 36081
+tztok_jad: 5 KC, rank 43206
+vardorvis: 57 KC, rank 32389
+vorkath: 24 KC, rank 93079
+wintertodt: 539 KC, rank 118894
+yama: 341 KC, rank 20238
+zalcano: 280 KC, rank 14021
 zulrah: 1507 KC, rank 17253
 
 Activities
 ----------
-clue_scrolls_all: 83, rank 174053
-clue_scrolls_beginner: 22, rank 104701
-clue_scrolls_easy: 13, rank 177228
-clue_scrolls_elite: 1, rank 157958
-clue_scrolls_hard: 31, rank 147166
-clue_scrolls_medium: 16, rank 180969
+clue_scrolls_all: 83, rank 174058
+clue_scrolls_beginner: 22, rank 104710
+clue_scrolls_easy: 13, rank 177231
+clue_scrolls_elite: 1, rank 157963
+clue_scrolls_hard: 31, rank 147176
+clue_scrolls_medium: 16, rank 180977
 collections_logged: 439, rank -1
-colosseum_glory: 591, rank 54009
-guardians_of_the_rift: 206, rank 73906
+colosseum_glory: 591, rank 54026
+guardians_of_the_rift: 206, rank 73912
 pvp_arena: 2500, rank -1
