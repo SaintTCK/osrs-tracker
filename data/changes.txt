@@ -1,4 +1,5 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-10-24T07:44:00.141139+00:00
+Checked at: 2026-10-24T16:21:13.064716+00:00
 
-No meaningful changes detected.
+Changes detected:
+- chambers_of_xeric: +3 KC (24 → 27)
