@@ -1,4 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-10-25T10:23:03.594383+00:00
+Checked at: 2026-10-25T14:40:22.399109+00:00
 
-No meaningful changes detected.
+Changes detected:
+- overall: level 2245 → 2246
+- hunter: level 88 → 89
