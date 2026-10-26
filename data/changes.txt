@@ -1,4 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-10-26T17:53:50.223291+00:00
+Checked at: 2026-10-26T22:05:03.340048+00:00
 
-No meaningful changes detected.
+Changes detected:
+- overall: level 2248 → 2249
+- runecrafting: level 77 → 78
