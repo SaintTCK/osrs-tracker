@@ -1,4 +1,5 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-10-30T03:30:57.199119+00:00
+Checked at: 2026-10-30T10:33:51.935444+00:00
 
-No meaningful changes detected.
+Changes detected:
+- the_hueycoatl: +20 KC (125 → 145)
