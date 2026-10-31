@@ -1,4 +1,7 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-10-31T07:43:49.485586+00:00
+Checked at: 2026-10-31T14:01:30.680690+00:00
 
-No meaningful changes detected.
+Changes detected:
+- overall: level 2251 → 2252
+- runecrafting: level 80 → 81
+- the_hueycoatl: +12 KC (149 → 161)
