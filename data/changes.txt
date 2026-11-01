@@ -1,4 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-01T15:34:53.431237+00:00
+Checked at: 2026-11-01T19:57:51.803368+00:00
 
-No meaningful changes detected.
+Changes detected:
+- hespori: +1 KC (66 → 67)
+- the_hueycoatl: +14 KC (205 → 219)
