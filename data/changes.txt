@@ -1,7 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-05T15:55:33.604249+00:00
+Checked at: 2026-11-05T21:42:15.085795+00:00
 
 Changes detected:
-- chambers_of_xeric: +5 KC (39 → 44)
-- hespori: +1 KC (68 → 69)
-- the_hueycoatl: +12 KC (259 → 271)
+- overall: level 2254 → 2255
+- runecrafting: level 82 → 83
