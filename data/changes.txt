@@ -1,5 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-07T19:11:30.461462+00:00
+Checked at: 2026-11-07T23:14:32.437886+00:00
 
 Changes detected:
-- the_hueycoatl: +12 KC (285 → 297)
+- chambers_of_xeric_challenge_mode: +2 KC (0 → 2)
+- the_hueycoatl: +4 KC (297 → 301)
