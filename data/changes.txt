@@ -1,5 +1,4 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-08T10:52:53.946095+00:00
+Checked at: 2026-11-08T16:50:42.490766+00:00
 
-Changes detected:
-- chambers_of_xeric_challenge_mode: +1 KC (2 → 3)
+No meaningful changes detected.
