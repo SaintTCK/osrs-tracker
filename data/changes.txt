@@ -1,8 +1,4 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-11T10:00:06.370939+00:00
+Checked at: 2026-11-11T17:46:06.131530+00:00
 
-Changes detected:
-- overall: level 2255 → 2256
-- runecrafting: level 83 → 84
-- maggot_king: +8 KC (224 → 232)
-- the_hueycoatl: +14 KC (356 → 370)
+No meaningful changes detected.
