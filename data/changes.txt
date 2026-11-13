@@ -1,7 +1,4 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-12T21:14:53.187197+00:00
+Checked at: 2026-11-13T02:17:10.791754+00:00
 
-Changes detected:
-- overall: level 2256 → 2257
-- fletching: level 94 → 95
-- hespori: +1 KC (71 → 72)
+No meaningful changes detected.
