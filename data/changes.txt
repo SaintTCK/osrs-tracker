@@ -1,7 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-14T19:34:57.556793+00:00
+Checked at: 2026-11-14T23:29:44.976937+00:00
 
 Changes detected:
-- overall: level 2258 → 2259
-- prayer: level 86 → 87
-- chambers_of_xeric: +1 KC (49 → 50)
+- overall: level 2259 → 2260
+- runecrafting: level 84 → 85
