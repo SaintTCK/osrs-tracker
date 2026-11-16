@@ -1,5 +1,7 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-16T12:15:16.615118+00:00
+Checked at: 2026-11-16T22:38:15.691499+00:00
 
 Changes detected:
-- chambers_of_xeric_challenge_mode: +1 KC (7 → 8)
+- overall: level 2260 → 2261
+- fletching: level 96 → 97
+- hespori: +1 KC (74 → 75)
