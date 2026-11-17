@@ -1,6 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-17T13:58:20.419162+00:00
+Checked at: 2026-11-17T22:01:21.314035+00:00
 
 Changes detected:
-- chambers_of_xeric_challenge_mode: +3 KC (8 → 11)
-- maggot_king: +7 KC (232 → 239)
+- overall: level 2261 → 2262
+- fletching: level 97 → 98
