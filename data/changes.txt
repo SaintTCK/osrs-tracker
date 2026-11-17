@@ -1,4 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-17T04:52:28.641705+00:00
+Checked at: 2026-11-17T13:58:20.419162+00:00
 
-No meaningful changes detected.
+Changes detected:
+- chambers_of_xeric_challenge_mode: +3 KC (8 → 11)
+- maggot_king: +7 KC (232 → 239)
