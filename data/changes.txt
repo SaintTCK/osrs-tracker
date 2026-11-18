@@ -1,6 +1,4 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-17T22:01:21.314035+00:00
+Checked at: 2026-11-18T03:56:39.556896+00:00
 
-Changes detected:
-- overall: level 2261 → 2262
-- fletching: level 97 → 98
+No meaningful changes detected.
