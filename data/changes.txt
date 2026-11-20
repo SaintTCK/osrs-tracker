@@ -1,6 +1,4 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-20T01:31:22.230387+00:00
+Checked at: 2026-11-20T09:24:45.078247+00:00
 
-Changes detected:
-- overall: level 2264 → 2265
-- construction: level 83 → 84
+No meaningful changes detected.
