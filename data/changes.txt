@@ -1,5 +1,8 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-21T15:46:08.462808+00:00
+Checked at: 2026-11-21T21:19:06.204511+00:00
 
 Changes detected:
-- chambers_of_xeric_challenge_mode: +2 KC (14 → 16)
+- overall: level 2267 → 2269
+- runecrafting: level 85 → 86
+- construction: level 85 → 86
+- hespori: +1 KC (77 → 78)
