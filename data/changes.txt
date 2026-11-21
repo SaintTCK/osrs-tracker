@@ -1,8 +1,4 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-20T18:07:47.620713+00:00
+Checked at: 2026-11-21T00:29:39.844176+00:00
 
-Changes detected:
-- overall: level 2265 → 2267
-- farming: level 95 → 96
-- construction: level 84 → 85
-- chambers_of_xeric_challenge_mode: +2 KC (12 → 14)
+No meaningful changes detected.
