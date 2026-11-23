@@ -1,6 +1,4 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-22T22:57:36.675952+00:00
+Checked at: 2026-11-23T03:28:44.181344+00:00
 
-Changes detected:
-- overall: level 2269 → 2270
-- herblore: level 85 → 86
+No meaningful changes detected.
