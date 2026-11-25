@@ -1,5 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-25T15:08:29.282115+00:00
+Checked at: 2026-11-25T23:53:09.166678+00:00
 
 Changes detected:
-- chambers_of_xeric: +1 KC (50 → 51)
+- overall: level 2271 → 2272
+- agility: level 86 → 87
