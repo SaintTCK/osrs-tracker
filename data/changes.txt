@@ -1,4 +1,6 @@
 SaintTCK OSRS tracker update
-Checked at: 2026-11-27T19:15:17.218103+00:00
+Checked at: 2026-11-28T02:22:00.096294+00:00
 
-No meaningful changes detected.
+Changes detected:
+- overall: level 2272 → 2273
+- agility: level 87 → 88
